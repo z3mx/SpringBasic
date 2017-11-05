@@ -13,3 +13,12 @@ Servidor TomCat  8.0
 IDE: Spring Tools Suite (STS)
 Maven 3.9
 Spring: 4.2.3
+java jdk 8.x
+
+
+#Conceptos basicos como pre-requisito:
+
+Core Java SE
+Programacion Orientada a Objetos
+Maven
+Patrones de Diseño
