@@ -1,0 +1,10 @@
+com\toweb\springjdbc\dao\ReceptorDAO.class
+com\toweb\springjdbc\service\ReceptorService.class
+com\toweb\springjdbc\model\ReceptorDTO.class
+com\toweb\springjdbc\config\WebConfig.class
+com\toweb\springjdbc\daoImp\ReceptorDAOImp$1.class
+com\toweb\springjdbc\daoImp\ReceptorDAOImp.class
+com\toweb\springjdbc\controller\ReceptorController.class
+com\toweb\springjdbc\daoImp\ReceptorDAOImp$ReceptorMapper.class
+com\toweb\springjdbc\config\WebInitializer.class
+com\toweb\springjdbc\serviceImp\ReceptorServiceImp.class
